@@ -1,0 +1,22 @@
+# Downloaded source PDFs (copyright, size, personal) and generated outputs
+annual_reports/
+*.pdf
+
+# Generated reports / outputs
+Shariah_Screening_Data.xlsx
+Ideal_Zero_Debt_Companies.xlsx
+download_report.csv
+run_report.csv
+validation_report.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor/OS noise
+.vscode/
+.DS_Store
+Thumbs.db

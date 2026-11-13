@@ -1,0 +1,7 @@
+pdfplumber
+pandas
+openpyxl
+requests
+PyMuPDF
+pytesseract
+Pillow
